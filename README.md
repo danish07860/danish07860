@@ -1,7 +1,7 @@
 # Hi, I'm Danish! 👋 
 ### Data Engineer | Snowflake Certified (SnowPro) | Aspiring AI Engineer
 
-I am a Data Engineering professional with **4.5+ years of experience** specializing in building scalable data pipelines within the **Telecom and Mobile domains**. Currently based in Bangalore, I'm focused on mastering the Modern Data Stack and moving toward **Agentic AI Architecture**.
+I am a Data Engineering professional with **4.5+ years of experience** specializing in building scalable data pipelines within the **Telecom and Mobile domains**. Currently based in **Bangalore**, I'm focused on mastering the Modern Data Stack and moving toward **Agentic AI Architecture**.
 
 ---
 
@@ -27,9 +27,9 @@ I am a Data Engineering professional with **4.5+ years of experience** specializ
 ---
 
 ### 📫 Connect with Me
-*   [LinkedIn](www.linkedin.com/in/mohammad-danish-alauddin-196746166)
+*   [LinkedIn](https://www.linkedin.com/in/mohammad-danish-alauddin-196746166)
 *   📍 Bangalore, India (Open to UK/US/Gulf opportunities)
 
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=danish07860&show_icons=true&theme=radical" alt="Danish's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=danish07860&show_icons=true&theme=tokyonight" alt="Danish's GitHub Stats" />
 </p>
