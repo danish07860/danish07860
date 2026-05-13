@@ -31,5 +31,5 @@ I am a Data Engineering professional with **4.5+ years of experience** specializ
 *   📍 Bangalore, India (Open to UK/US/Gulf opportunities)
 
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=danish07860&show_icons=true&theme=tokyonight" alt="Danish's GitHub Stats" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=danish07860&show_icons=true&theme=tokyonight" alt="Danish's GitHub Stats" />
 </p>
